@@ -29,4 +29,4 @@
 - [Source Code](https://github.com/jcampbell18/web_moviesAPI)
 - [Website]()
 
-![Screenshot](https://github.com/jcampbell18/HTML_CSS/blob/main/RW-Hotshot-800.png)
+![Screenshot](#)

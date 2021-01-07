@@ -17,6 +17,14 @@
 - [Website](https://jcampbell18.github.io/)
 
 ![Screenshot](https://github.com/jcampbell18/HTML_CSS/blob/main/jcampbell18_v2_screenshot-600.png)
+
+## Invoicing Template
+
+- [Source Code](https://github.com/jcampbell18/web_invoicing_template)
+- [Website](https://jcampbell18.github.io/web_invoicing_template/)
+
+![Screenshot](https://github.com/jcampbell18/HTML_CSS/blob/main/invoicing_template-600.png)
+
 ## Portfolio V1
 
 - [Source Code](https://github.com/jcampbell18/)

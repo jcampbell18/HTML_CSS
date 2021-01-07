@@ -37,4 +37,4 @@
 - [Source Code](https://github.com/jcampbell18/web_moviesAPI)
 - [Website]()
 
-![Screenshot](#)
+![Screenshot](https://github.com/jcampbell18/web_moviesAPI/blob/master/design/DesktopTemplate.png)

@@ -27,7 +27,7 @@
 
 ## Portfolio V1
 
-- [Source Code](https://github.com/jcampbell18/)
+- [Source Code](https://github.com/jcampbell18/web_portfolio-v1/)
 - [Website](https://jcampbell18.github.io/web_portfolio-v1/)
 
 ![Screenshot](https://github.com/jcampbell18/HTML_CSS/blob/main/jcampbell18_v1_screenshot_600.png)
